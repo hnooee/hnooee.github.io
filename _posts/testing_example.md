@@ -1,3 +1,8 @@
+---
+layout: single
+title:  가설검정 예제
+---
+
 ```python
 import distribution as distr
 import testing as test
@@ -125,7 +130,7 @@ test.F_test(data1, data2)
 
 
     
-![png](output_6_1.png)
+![output_6_1](https://user-images.githubusercontent.com/78411864/127110048-df965dc5-f1fe-4a13-af1d-56c8869b4918.png)
     
 
 
@@ -151,7 +156,7 @@ test.two_sample_T(data1, data2)
 
 
     
-![png](output_7_1.png)
+![output_7_1](https://user-images.githubusercontent.com/78411864/127110086-585c2d97-5e47-40ad-a92f-78ae5b003601.png)
     
 
 
@@ -177,7 +182,7 @@ test.one_sample_T(data1)
 
 
     
-![png](output_8_1.png)
+![output_8_1](https://user-images.githubusercontent.com/78411864/127110120-6b9ce912-d3cf-4b32-bf5a-7584b0edc9c6.png)
     
 
 
@@ -209,7 +214,7 @@ test.F_test(data1, data2)
 
 
     
-![png](output_11_1.png)
+![output_11_1](https://user-images.githubusercontent.com/78411864/127110164-bed8533f-e9fe-4053-9381-533cb033dc60.png)
     
 
 
@@ -235,6 +240,6 @@ test.two_sample_T(data1, data2)
 
 
     
-![png](output_12_1.png)
+![output_12_1](https://user-images.githubusercontent.com/78411864/127110215-e6932f94-3bc8-443c-93d0-18f87141158c.png)
     
 
