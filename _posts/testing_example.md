@@ -93,7 +93,7 @@ print('학군과 성적은 상관이 있습니다.')
 
 
     
-![png](output_3_1.png)
+![output_3_1](https://user-images.githubusercontent.com/78411864/127109874-1ec08562-771e-406d-9fbb-8d99a5d2e064.png)
     
 
 
