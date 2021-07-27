@@ -1,3 +1,9 @@
+---
+layout: single
+title:  "확률분포의 정의"
+---
+
+
 import pandas as pd
 import numpy as np
 import matplotlib as mlp
