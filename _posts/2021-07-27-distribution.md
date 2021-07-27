@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "확률분포의 "
+title:  "확률분포의 정의"
 ---
 
 ```python
