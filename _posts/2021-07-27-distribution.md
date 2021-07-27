@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "확률분포의 "
+---
+
 ```python
 import numpy as np
 import matplotlib as mlp
