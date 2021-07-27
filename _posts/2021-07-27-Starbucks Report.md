@@ -486,7 +486,7 @@ sns.countplot(data=profile, x='gender').set_title('고객 성별 분포');
 
 
     
-![png](output_22_1.png)
+![output_22_1](https://user-images.githubusercontent.com/78411864/127152035-4cac039c-451b-4202-b9e9-91c21fb4019e.png)
     
 
 
@@ -551,7 +551,7 @@ sns.countplot(data=age, x='age')
 
 
     
-![png](output_26_1.png)
+![output_26_1](https://user-images.githubusercontent.com/78411864/127152039-7562e080-3146-4e64-a6a7-bc59280d3f19.png)
     
 
 
@@ -596,7 +596,7 @@ sns.countplot(data=profile, x='became_member_on').set_title('일자별 어플계
 
 
     
-![png](output_30_0.png)
+![output_30_0](https://user-images.githubusercontent.com/78411864/127152040-2b23ed57-1528-4a6f-972e-4f476de8cb48.png)
     
 
 
@@ -647,7 +647,7 @@ sns.countplot(data=profile, x='income').set_title('고객 수입 분포');
 
 
     
-![png](output_34_0.png)
+![output_34_0](https://user-images.githubusercontent.com/78411864/127152043-18903e74-e484-40d2-805e-9f03eb2602bf.png)
     
 
 
@@ -1081,7 +1081,7 @@ transcript['event'].value_counts().plot.bar(rot=0, color='g', title='EVENT');
 
 
     
-![png](output_45_1.png)
+![output_45_1](https://user-images.githubusercontent.com/78411864/127152046-e2808bb8-f037-4194-8d04-64713dc2c11b.png)
     
 
 
@@ -1745,7 +1745,7 @@ plt.xticks(rotation=90);
 
 
     
-![png](output_53_0.png)
+![output_53_0](https://user-images.githubusercontent.com/78411864/127152048-b3462dd3-1220-4a54-abfa-0ea3237c50df.png)
     
 
 
@@ -7987,7 +7987,7 @@ fig, axes = plt.subplots(nrows=2, ncols=2, figsize=(14,9))
 
 
     
-![png](output_169_1.png)
+![output_169_1](https://user-images.githubusercontent.com/78411864/127152050-e30b2f65-7b17-4c30-9d86-482780bbdf80.png)
     
 
 
@@ -8269,7 +8269,7 @@ fig, axes = plt.subplots(ncols=2, figsize=(14,6))
 
 
     
-![png](output_172_1.png)
+![output_172_1](https://user-images.githubusercontent.com/78411864/127152051-b8065e34-01ee-4795-8c23-5e20a2ee83b2.png)
     
 
 
@@ -8291,7 +8291,7 @@ fig, axes1 = plt.subplots(nrows=1, ncols=2, figsize=(14,4))
 
 
     
-![png](output_174_1.png)
+![output_174_1](https://user-images.githubusercontent.com/78411864/127152053-640a1352-22a3-410c-b83c-c2f1c9ac8ae6.png)
     
 
 
@@ -8312,7 +8312,7 @@ fig, axes = plt.subplots(nrows=1, ncols=2, figsize=(14,6))
 
 
     
-![png](output_175_1.png)
+![output_175_1](https://user-images.githubusercontent.com/78411864/127152055-26476534-75f6-4058-97ea-c0067b1951e5.png)
     
 
 
@@ -8881,7 +8881,7 @@ plt.legend(pie_profile.index);
 
 
     
-![png](output_186_0.png)
+![output_186_0](https://user-images.githubusercontent.com/78411864/127152057-35290069-1d41-4cdc-8ad4-2ac6e367974a.png)
     
 
 
@@ -8900,7 +8900,7 @@ plt.pie(pie_buy, labels=pie_profile.index, autopct = '%0.2f%%',
 
 
     
-![png](output_188_0.png)
+![output_188_0](https://user-images.githubusercontent.com/78411864/127152059-3c8fbfd9-eeb7-48ec-a153-6e0edc17ac0a.png)
     
 
 
@@ -8920,7 +8920,7 @@ fig, axes = plt.subplots(nrows=1, ncols=2, figsize=(10,6), sharey=True)
 
 
     
-![png](output_189_1.png)
+![output_189_1](https://user-images.githubusercontent.com/78411864/127152061-33e67d66-df53-4e6a-90f4-f0ce11aef7ed.png)
     
 
 
@@ -8944,7 +8944,7 @@ fig, axes = plt.subplots(nrows=1, ncols=2, figsize=(10,6), sharey=True)
 
 
     
-![png](output_191_1.png)
+![output_191_1](https://user-images.githubusercontent.com/78411864/127152063-928dcbb8-1227-4077-ba84-72885b9731eb.png)
     
 
 
@@ -8966,7 +8966,7 @@ fig, axes = plt.subplots(nrows=1, ncols=2, figsize=(10,6), sharey=True)
 
 
     
-![png](output_193_1.png)
+![output_193_1](https://user-images.githubusercontent.com/78411864/127152066-775d5578-0e49-48cf-b209-11ec9b8e3b22.png)
     
 
 
@@ -9015,7 +9015,7 @@ fig, axes = plt.subplots(nrows=1, ncols=2, figsize=(10,6), sharey=True)
 
 
     
-![png](output_197_1.png)
+![output_197_1](https://user-images.githubusercontent.com/78411864/127152067-716fa568-cfd5-43df-94dc-31decef9c8b5.png)
     
 
 
@@ -9047,7 +9047,7 @@ sns.heatmap(ratio,
 
 
     
-![png](output_199_1.png)
+![output_199_1](https://user-images.githubusercontent.com/78411864/127152068-b871533e-4833-4bc8-9d8e-95b1f629b83f.png)
     
 
 
@@ -9634,7 +9634,7 @@ promotion.groupby(by=['offer_id','offer_type', 'event']).count()['person_id'].un
 
 
     
-![png](output_206_1.png)
+![output_206_1](https://user-images.githubusercontent.com/78411864/127152069-db57e574-5633-483e-9a3b-ef8e2c113ddf.png)
     
 
 
@@ -10022,7 +10022,7 @@ result_sort['completed_ratio(%)'].plot.bar(ax= axes[2], title ='쿠폰 사용 �
 
 
     
-![png](output_216_1.png)
+![output_216_1](https://user-images.githubusercontent.com/78411864/127152070-f9d71e56-ba82-46d9-983f-517d6eab5972.png)
     
 
 
@@ -10050,7 +10050,7 @@ sns.heatmap(result_sort.corr(),cmap='Greens', ax=axes[0], annot=True, linewidths
 
 
     
-![png](output_218_1.png)
+![output_218_1](https://user-images.githubusercontent.com/78411864/127152073-0a6e4392-27ce-468a-bda5-fbfe972bdea8.png)
     
 
 
@@ -10068,7 +10068,7 @@ sns.heatmap(result_sort[['difficulty','reward', 'total_profit', 'duration','comp
 
 
     
-![png](output_219_1.png)
+![output_219_1](https://user-images.githubusercontent.com/78411864/127152077-47fb6bc1-3b54-441b-9a08-a14163961b0d.png)
     
 
 
@@ -10929,19 +10929,19 @@ result_div.plot.bar(rot=0,title='연도별 인당 평균 프로모션&거래 참
 
 
     
-![png](output_242_0.png)
+![output_242_0](https://user-images.githubusercontent.com/78411864/127152079-8a340ddd-1edc-4e96-9a79-b9a29bebe7d1.png)
     
 
 
 
     
-![png](output_242_1.png)
+![output_242_1](https://user-images.githubusercontent.com/78411864/127152081-21e465d5-c27a-49e8-a8fd-052b97e9af92.png)
     
 
 
 
     
-![png](output_242_2.png)
+![output_242_2](https://user-images.githubusercontent.com/78411864/127152083-2579ea2e-288b-4620-a608-26508ea55679.png)
     
 
 
